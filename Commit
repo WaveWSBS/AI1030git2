@@ -1,0 +1,14 @@
+https://github.com/WaveWSBS/AI1030git2
+(base) mingming.jiang@LM007521 AI1030git2 % git log --oneline --graph
+* 2dcd9e8 (HEAD -> main, origin/main, origin/HEAD) commit
+*   2a05074 Merge branch 'feature/summarize'
+|\  
+| * 569a37e (feature/summarize) 不要扣屁股
+* | dcef8b5 就要扣屁股
+|/  
+* 49d3778 Option B
+* 091b772 Add summary section to notes
+* 5834d81 Add initial README content
+* c2e81c1 Add notes.txt with initial thoughts
+
+//Merge is messy and rebase is linear and clean. if you want a clean history, use rebase.
